@@ -19,4 +19,7 @@
 For this project, I looked through all the material we reviewed in class and read from other sources like:
  w3schools.com and developer.mozilla.org/ 
 
+ Links for repository : https://github.com/caroHagg/Work-Day-Scheduler
+ Link for live website : https://carohagg.github.io/Work-Day-Scheduler/
+
  
