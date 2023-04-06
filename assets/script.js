@@ -34,7 +34,9 @@ function getEventsAndAddColor(){
 
   $.each($('.container-lg').children('.row'), function () {
     divRowEl.push($(this).attr('id'));
+
   });
+
 if(localStorage.length > 0){
   for (i=0; i<localStorage.length; i++)  
   {  
@@ -54,7 +56,6 @@ if(localStorage.length > 0){
     }
   
 }
-  
 }
 //set the colors no matter if local storage has items
 
@@ -79,6 +80,7 @@ for (var i=0; i< divRowEl.length;i++){
 
   // Add code to get any user input that was saved in localStorage and set
   // the values of the corresponding textarea elements. 
+  
 getEventsAndAddColor()
   
 
